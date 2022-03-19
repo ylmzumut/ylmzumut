@@ -9,8 +9,8 @@
 
 [![Image of my-views-counter](https://github.com/ylmzumut/my-views-counter/blob/master/svg/471639041/badge.svg)](https://github.com/ylmzumut/my-views-counter/blob/master/readme/471639041/week.md)
 
-<h3 align="left">Programming Languages</h3>
-<p align="left" id="programming">
+<h3 align="left" id="programming">Programming Languages</h3>
+<p align="left">
 <!--C#-->
 <a href="#programming"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50"/></a>
   <!--C-->&ensp;
@@ -29,8 +29,8 @@
 <a href="#programming"><img src="https://sezeromer.com/wp-content/uploads/2018/01/sql.png" alt="sql" height="50"/> </a>
   </p>
   
-<h3 align="left">Frameworks</h3>
-<p align="left" id="framework">
+<h3 align="left" id="framework">Frameworks</h3>
+<p align="left" >
   <!-- .NET Framework -->
 <a href="#framework"><img src="https://i.hizliresim.com/ekot9jd.png" alt="dotnet" height="50"/>  </a>
   <!-- .NET Core -->&ensp;
@@ -56,8 +56,8 @@
 <a href="#framework"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50"/>    </a>
 </p>
     
-<h3 align="left">Databases</h3>
-<p align="left" id="datebase">
+<h3 align="left" id="datebase">Databases</h3>
+<p align="left" >
   <!-- MSSQL -->
 <a href="#datebase"><img src="https://i.hizliresim.com/7ulhk0y.png" alt="mssql" height="50"/>  </a>
 <!-- SQLite -->&ensp;
@@ -66,8 +66,8 @@
   <a href="#datebase"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/745px-Postgresql_elephant.svg.png" alt="postgresql" height="50"/> </a>
 </p>
 
-<h3 align="left">Computer Information</h3>
-<p align="left" id="cominfo">
+<h3 align="left" id="cominfo">Computer Information</h3>
+<p align="left" >
 <!-- github -->
  <a href="#cominfo"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github" height="50"/></a>
 <!-- git -->&ensp;
