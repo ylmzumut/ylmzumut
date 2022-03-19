@@ -12,21 +12,21 @@
 <h3 align="left">Programming Languages</h3>
 <p align="left">
 <!--C#-->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50"/>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50"/></a>
   <!--C-->&ensp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/></a>
 <!--HTML-->&ensp;
-<img src="https://i.hizliresim.com/8v9742o.png" alt="html5" width="50" height="50"/>
+<a href="#"><img src="https://i.hizliresim.com/8v9742o.png" alt="html5" width="50" height="50"/></a>
 <!--CSS-->&ensp;
-<img src="https://i.hizliresim.com/hamfgs7.png" alt="css3" width="50" height="50"/>
+<a href="#"><img src="https://i.hizliresim.com/hamfgs7.png" alt="css3" width="50" height="50"/></a>
 <!--JavaScript-->&ensp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/></a>
 <!--Python-->&ensp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/></a>
 <!--C++-->&ensp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/> 
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/> </a>
   <!--sql+-->&ensp;
-<img src="https://sezeromer.com/wp-content/uploads/2018/01/sql.png" alt="sql" height="50"/> 
+<a href="#"><img src="https://sezeromer.com/wp-content/uploads/2018/01/sql.png" alt="sql" height="50"/> </a>
   </p>
   
 <h3 align="left">Frameworks</h3>
