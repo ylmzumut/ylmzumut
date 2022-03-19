@@ -10,7 +10,7 @@
 [![Image of my-views-counter](https://github.com/ylmzumut/my-views-counter/blob/master/svg/471639041/badge.svg)](https://github.com/ylmzumut/my-views-counter/blob/master/readme/471639041/week.md)
 
 <h3 align="left">Programming Languages</h3>
-<a href="#" target="_blank" rel="noreferrer">
+<p align="left">
 <!--C#-->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50"/>
   <!--C-->&ensp;
@@ -27,17 +27,17 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/> 
   <!--sql+-->&ensp;
 <img src="https://sezeromer.com/wp-content/uploads/2018/01/sql.png" alt="sql" height="50"/> 
-  </a>
+  </p>
   
 <h3 align="left">Frameworks</h3>
-<a href="#" target="_blank" rel="noreferrer">
+<p align="left">
   <!-- .NET Framework -->
 <img src="https://i.hizliresim.com/ekot9jd.png" alt="dotnet" height="50"/>  
   <!-- .NET Core -->&ensp;
 <img src="https://i.hizliresim.com/t7palgp.png" alt="dotnetcore" height="50"/>
-  </a>
+  </p>
   <br/> <br/>
-  <a href="#" target="_blank" rel="noreferrer">
+<p align="left">
   <!-- jQuery -->&ensp;
 <img src="https://icon-library.com/images/jquery-icon-png/jquery-icon-png-7.jpg" alt="jquery" width="50" height="50"/>
   <!-- React Native -->&ensp;
@@ -54,20 +54,20 @@
 <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="50" height="50"/>  
   <!-- Pandas -->&ensp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50"/>    
-</a>
+</p>
     
 <h3 align="left">Databases</h3>
-<a href="#" target="_blank" rel="noreferrer">
+<p align="left">
   <!-- MSSQL -->
 <img src="https://i.hizliresim.com/7ulhk0y.png" alt="mssql" height="50"/>  
 <!-- SQLite -->&ensp;
 <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" height="50"/>
   <!-- postgresql -->&ensp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/745px-Postgresql_elephant.svg.png" alt="postgresql" height="50"/> 
-</a>
+</p>
 
 <h3 align="left">Computer Information</h3>
-<a href="#" target="_blank" rel="noreferrer">
+<p align="left">
 <!-- github -->
  <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github" height="50"/>
 <!-- git -->&ensp;
@@ -94,13 +94,7 @@
   <img src="https://1.bp.blogspot.com/-Ynk6RtwM4rE/XrgR7i5obQI/AAAAAAACRco/Kz9NDMA_F_YEjQLJDwwsbStjT5Tl4a9vQCK4BGAsYHg/d/AutoCAD_2018_icon.png" alt="autocad" height="50"/>
   <!-- solidworks -->&ensp;
   <img src="https://icon-library.com/images/solidworks-icon/solidworks-icon-24.jpg" alt="solidworks" height="50"/>
-
-
-
-
-
-
-
+</p>
 
 <h3 align="left">Contact</h3>
 <p align="left">
