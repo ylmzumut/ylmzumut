@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Umut Yılmaz</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-[![Image of https://github.com/ylmzumut/my-views-counter](https://github.com/ylmzumut/my-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/ylmzumut/my-views-counter)
+[![Image of my-views-counter](https://github.com/ylmzumut/my-views-counter/blob/master/svg/471639041/badge.svg)](https://github.com/ylmzumut/my-views-counter/blob/master/readme/471639041/week.md)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ylmzumut&theme=algolia" alt="ylmzumut" style="transform: scale(1);"/></a> </p>
 
