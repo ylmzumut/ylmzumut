@@ -4,7 +4,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ylmzumut&theme=algolia" alt="ylmzumut" style="transform: scale(1);"/></a> </p>
 
 <p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=ylmzumut&show_icons=true&locale=en&layout=compact&theme=algolia " alt="ylmzumut" />
-
+&ensp;&ensp;&ensp;&ensp;
 <img  src="https://github-readme-stats.vercel.app/api?username=ylmzumut&show_icons=true&locale=en&theme=algolia " alt="ylmzumut" /></p>
 
 [![Image of my-views-counter](https://github.com/ylmzumut/my-views-counter/blob/master/svg/471639041/badge.svg)](https://github.com/ylmzumut/my-views-counter/blob/master/readme/471639041/week.md)
