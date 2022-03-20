@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Umut Yılmaz</h1>
-<h3 align="center">Junior Software Developer &ensp;-&ensp; Computer Engineering</h3>
+<h2 align="center">Junior Software Developer &ensp;-&ensp; Computer Engineering</h2>
 
+<h3 align="center">🏆GitHub Profile Trophy🏆</h3>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ylmzumut&theme=algolia" alt="ylmzumut" style="transform: scale(1);"/></a> </p>
 
 <p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=ylmzumut&show_icons=true&locale=en&layout=compact&theme=algolia " alt="ylmzumut" /></p>
