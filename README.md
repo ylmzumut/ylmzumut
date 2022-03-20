@@ -89,7 +89,7 @@
    <a href="#cominfo"><img src="https://www.soapui.org/smartbearbrand/media/images/logos/product-only/su_product-only-clr.svg" alt="soapui" height="50"/></a>
   <!-- postman -->&ensp;
    <a href="#cominfo"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" height="50"/></a>
-      <!-- linux -->&ensp;
+      <!-- linux -->&ensp;  <br/>   <br/> 
  <a href="#cominfo"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" height="50"/></a>
   <!-- autocad -->&ensp;
    <a href="#cominfo"><img src="https://1.bp.blogspot.com/-Ynk6RtwM4rE/XrgR7i5obQI/AAAAAAACRco/Kz9NDMA_F_YEjQLJDwwsbStjT5Tl4a9vQCK4BGAsYHg/d/AutoCAD_2018_icon.png" alt="autocad" height="50"/></a>
