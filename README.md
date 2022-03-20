@@ -37,7 +37,7 @@
   <!-- .NET Core -->&ensp;
 <a href="#framework"><img src="https://i.hizliresim.com/t7palgp.png" alt="dotnetcore" height="50"/></a>
   </p>
-  <br/> <br/>
+  <br/> 
 <p align="left">
   <!-- jQuery -->&ensp;
 <a href="#framework"><img src="https://icon-library.com/images/jquery-icon-png/jquery-icon-png-7.jpg" alt="jquery" width="50" height="50"/></a>
