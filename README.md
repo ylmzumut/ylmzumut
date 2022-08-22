@@ -2,7 +2,7 @@
 <h2 align="center">Junior Software Developer &ensp;-&ensp; Computer Engineering</h2>
 
 <h3 align="center">:trophy:GitHub Profile Trophy:medal_sports:</h3>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ylmzumut&theme=algolia" alt="ylmzumut" style="transform: scale(1);"/></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ylmzumut&row=1&column=7&theme=algolia" alt="ylmzumut" style="transform: scale(1);"/></a> </p>
 
 <div align="center">
   <div style="display: flex;">
