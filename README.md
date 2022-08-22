@@ -4,9 +4,12 @@
 <h3 align="center">:trophy:GitHub Profile Trophy:medal_sports:</h3>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ylmzumut&theme=algolia" alt="ylmzumut" style="transform: scale(1);"/></a> </p>
 
-<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=ylmzumut&show_icons=true&locale=en&layout=compact&theme=algolia " alt="ylmzumut" /></p>
-<p align="center">
-<img  src="https://github-readme-stats.vercel.app/api?username=ylmzumut&show_icons=true&locale=en&theme=algolia " alt="ylmzumut" /></p>
+<div align="center">
+  <div style="display: flex;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ylmzumut&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" style="vertical-align: top;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ylmzumut&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" />
+  </div>
+</div>
 
 [![Image of my-views-counter](https://github.com/ylmzumut/my-views-counter/blob/master/svg/471639041/badge.svg)](https://github.com/ylmzumut/my-views-counter/blob/master/readme/471639041/week.md)
 
