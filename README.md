@@ -13,9 +13,7 @@
 
 [![Image of my-views-counter](https://github.com/ylmzumut/my-views-counter/blob/master/svg/471639041/badge.svg)](https://github.com/ylmzumut/my-views-counter/blob/master/readme/471639041/week.md)
 
-[![My Skills](https://skillicons.dev/icons?i=cs,js,html,css,py,c,cpp)](https://umutylmz.com)
-[![My Skills](https://skillicons.dev/icons?i=dotnet,react,redux,angular,nodejs,tensorflow)](https://umutylmz.com)
-[![My Skills](https://skillicons.dev/icons?i=github,git,ps,matlab,pr,ai,linux,autocad)](https://umutylmz.com)
+
 
 <h3 align="left" id="programming">Programming Languages</h3>
 <p align="left">
