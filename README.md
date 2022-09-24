@@ -2,12 +2,16 @@
 <h2 align="center">Junior Software Developer &ensp;-&ensp; Computer Engineering</h2>
 
 <h3 align="center">:trophy:GitHub Profile Trophy:medal_sports:</h3>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ylmzumut&row=1&column=7&theme=algolia" alt="ylmzumut" style="transform: scale(1);"/></a> </p>
 
 <div align="center">
   <div style="display: flex;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ylmzumut&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" style="vertical-align: top;" />
-    <img src="https://github-readme-stats.vercel.app/api?username=ylmzumut&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" />
+ <img src="https://github-profile-trophy.vercel.app/?username=ylmzumut&row=1&column=7&&no-frame=true&no-bg=true&margin-w=15&theme=gitdimmed" alt="ylmzumut" style="transform: scale(1); background-color: #051a1f; border-radius:5px; padding:5px;" />
+ 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ylmzumut&layout=compact&show_icons=true&title_color=38b26b&icon_color=38b26b&text_color=daf7dc&bg_color=051a1f&locale=en&hide_border=true" style="vertical-align: top; height:175px" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=ylmzumut&show_icons=enue&title_color=38b26b&icon_color=38b26b&text_color=daf7dc&bg_color=051a1f&locale=tr&hide_border=true" style="vertical-align: top; height:175px" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ylmzumut&theme=android-dark&hide_border=true&border_radius=5&locale=en&date_format=j%20M%5B%20Y%5D&background=051A1F" style="vertical-align: top; height:175px" />
   </div>
 </div>
 
@@ -17,49 +21,32 @@
 
 <h3 align="left" id="programming">Programming Languages</h3>
 <p align="left">
-<!--C#-->
-<a href="#programming"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50"/></a>
-  <!--C-->&ensp;
-<a href="#programming"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/></a>
-<!--HTML-->&ensp;
-<a href="#programming"><img src="https://i.hizliresim.com/8v9742o.png" alt="html5" width="50" height="50"/></a>
-<!--CSS-->&ensp;
-<a href="#programming"><img src="https://i.hizliresim.com/hamfgs7.png" alt="css3" width="50" height="50"/></a>
-<!--JavaScript-->&ensp;
-<a href="#programming"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/></a>
-<!--Python-->&ensp;
-<a href="#programming"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/></a>
-<!--C++-->&ensp;
-<a href="#programming"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/> </a>
-  <!--sql+-->&ensp;
-<a href="#programming"><img src="https://sezeromer.com/wp-content/uploads/2018/01/sql.png" alt="sql" height="50"/> </a>
+<a href="#programming"><img src="https://skillicons.dev/icons?i=cs&theme=dark" alt="c#" height="50"/></a>
+<a href="#programming"><img src="https://skillicons.dev/icons?i=javascript&theme=dark" alt="javascript" height="50"/></a>
+<a href="#programming"><img src="https://skillicons.dev/icons?i=html&theme=dark" alt="html" height="50"/></a>
+<a href="#programming"><img src="https://skillicons.dev/icons?i=css&theme=dark" alt="css" height="50"/></a>
+<a href="#programming"><img src="https://skillicons.dev/icons?i=py&theme=dark" alt="python" height="50"/></a>
+<a href="#programming"><img src="https://skillicons.dev/icons?i=c&theme=dark" alt="c" height="50"/></a>
+<a href="#programming"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" alt="c++" height="50"/></a>
+<a href="#programming"><img src="https://github.com/ylmzumut/ylmzumut/blob/main/skills/SQL.png?raw=true" alt="sql" height="50"/> </a>
   </p>
   
 <h3 align="left" id="framework">Frameworks</h3>
 <p align="left" >
-  <!-- .NET Framework -->
-<a href="#framework"><img src="https://i.hizliresim.com/ekot9jd.png" alt="dotnet" height="50"/>  </a>
-  <!-- .NET Core -->&ensp;
-<a href="#framework"><img src="https://i.hizliresim.com/t7palgp.png" alt="dotnetcore" height="50"/></a>
-  </p>
-  <br/> 
-<p align="left">
-  <!-- jQuery -->&ensp;
-<a href="#framework"><img src="https://icon-library.com/images/jquery-icon-png/jquery-icon-png-7.jpg" alt="jquery" width="50" height="50"/></a>
-  <!-- React Native -->&ensp;
-<a href="#framework"><img src="https://i.hizliresim.com/ap3ye95.png" alt="reactnative"  height="50"/>  </a>
-  <!-- İonic Framework -->&ensp;
-<a href="#framework"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="50" height="50"/>  </a>
-<!-- angular -->&ensp;
-<a href="#framework"><img src="https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg" alt="angularjs" width="50" height="50"/>  </a>
-  <!-- NodeJS -->&ensp;
-<a href="#framework"><img src="https://hackr.io/tutorials/learn-node-js/logo/logo-node-js?ver=1610118577" alt="nodejs" width="50" height="50"/>  </a>
-  <!-- TensorFlow -->&ensp;
-<a href="#framework"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="50" height="50"/>  </a>
-<!-- OpenCV -->&ensp;
-<a href="#framework"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="50" height="50"/>  </a>
-  <!-- Pandas -->&ensp;
+<a href="#framework"><img src="https://github.com/ylmzumut/ylmzumut/blob/main/skills/DotNet.png" alt="dotnet" height="50"/>  </a>
+<a href="#framework"><img src="https://github.com/ylmzumut/ylmzumut/blob/main/skills/DotNetCore.png" alt="dotnetcore" height="50"/></a>
+<a href="#framework"><img src="https://github.com/ylmzumut/ylmzumut/blob/main/skills/JQuery.png" alt="jquery" width="50" height="50"/></a>
+<a href="#framework"><img src="https://github.com/ylmzumut/ylmzumut/blob/main/skills/React.png" alt="react"  height="50"/>  </a>
+<a href="#framework"><img src="https://github.com/ylmzumut/ylmzumut/blob/main/skills/Redux.png" alt="redux" height="50"/>  </a>
+<a href="#framework"><img src="https://github.com/ylmzumut/ylmzumut/blob/main/skills/React_Native.png" alt="react native"  height="50"/>  </a>
+<a href="#framework"><img src="https://github.com/ylmzumut/ylmzumut/blob/main/skills/Ionic.png" alt="ionic"  height="50"/>  </a>
+<br/>
+<img src="https://skillicons.dev/icons?i=tensorflow&theme=dark"  alt="tensorflow"  height="50" />
+<a href="#framework"><img src="https://github.com/ylmzumut/ylmzumut/blob/main/skills/OpenCV.png" alt="opencv"  height="50"/>  </a>
 <a href="#framework"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50"/>    </a>
+<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="node js"  height="50" />
+<img src="https://skillicons.dev/icons?i=angular&theme=dark"  alt="angular"  height="50" />
+
 </p>
     
 <h3 align="left" id="datebase">Databases</h3>
