@@ -17,12 +17,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com?user=ylmzumut&theme=android-dark&hide_border=true&border_radius=5&locale=en&date_format=j%20M%5B%20Y%5D&background=051A1F" style="vertical-align: top; height:175px" />
   </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>
-  
+
 </div>
 
 [![Image of my-views-counter](https://github.com/ylmzumut/my-views-counter/blob/master/svg/471639041/badge.svg)](https://github.com/ylmzumut/my-views-counter/blob/master/readme/471639041/week.md)
